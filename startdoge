@@ -1,0 +1,1 @@
+./cpuminer -a yescrypt -o stratum+tcp://yescrypt.sea.mine.zpool.ca:6233 -u D96oADj59wWt5Uv8SCpmcjzRnYsnq5HMUg -p c=DOGE -t 4

@@ -1,0 +1,1 @@
+./cpuminer -a allium -o stratum+tcp://allium.sea.mine.zpool.ca:6433 -u D96oADj59wWt5Uv8SCpmcjzRnYsnq5HMUg -p c=DOGE
